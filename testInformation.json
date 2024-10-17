@@ -1,0 +1,24 @@
+{
+    "settings": [
+        {
+            "key": "newContentsDialogArchitectWebPath",
+            "value": "https://archi.fukuicompu.co.jp/feature/gla/iine.html",
+            "notes": "GLOOBE Architect 2025 新機能紹介html"
+        },
+        {
+            "key": "newContentsDialogConstructionWebPath",
+            "value": "https://archi.fukuicompu.co.jp/feature/gla/iine.html",
+            "notes": "GLOOBE Construction 2025 新機能紹介html"
+        },
+        {
+            "key": "newContentsDocumentArchitectWebPath",
+            "value": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2024/guide/new/GLA_2024new.html?20240710",
+            "notes": "GLOOBE Architect 2025 新機能紹介PDF"
+        },
+        {
+            "key": "newContentsDocumentConstructionWebPath",
+            "value": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2024/guide/new/GLC_2024new.html?20240821",
+            "notes": "GLOOBE Construction 2025 新機能紹介PDF"
+        }
+    ]
+}
