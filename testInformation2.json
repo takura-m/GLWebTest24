@@ -1,0 +1,30 @@
+{
+    "popup": [
+        {
+            "key": "newContentsArchitectWebPath",
+            "url": "https://takura-m.github.io/GLWebTest24/いいねGL特設サイトポップアップ.png",
+            "width": 700,
+            "height": 530,
+            "notes": "GLOOBE Architect 2025 新機能紹介html"
+        },
+        {
+            "key": "newContentsConstructionWebPath",
+            "url": "https://takura-m.github.io/GLWebTest24/いいねGL特設サイトポップアップ.png",
+            "width": 700,
+            "height": 530,
+            "notes": "GLOOBE Construction 2025 新機能紹介html"
+        }
+    ],
+    "document":[
+        {
+            "key": "newContentsArchitectWebPath",
+            "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2024/guide/new/GLA_2024new.html?20240710",
+            "notes": "GLOOBE Architect 2025 新機能紹介PDF"
+        },
+        {
+            "key": "newContentsConstructionWebPath",
+            "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2024/guide/new/GLC_2024new.html?20240821",
+            "notes": "GLOOBE Construction 2025 新機能紹介PDF"
+        }
+    ]
+}
