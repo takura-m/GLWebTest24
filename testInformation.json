@@ -3,7 +3,7 @@
         {
             "key": "popupArchitectInfo",
             "url": "https://archi.fukuicompu.co.jp/feature/gla/iine.html",
-            "activationDateTime": "2024-01-15",
+            "activationDateTime": "2024-01-15 00:00:00",
             "width": 688,
             "height": 526,
             "notes": "GLOOBE Architect 2025 ポップアップ表示内容のURL"
@@ -11,7 +11,7 @@
         {
             "key": "popupConstructionInfo",
             "url": "https://archi.fukuicompu.co.jp/feature/gla/iine.html",
-            "activationDateTime": "2024-01-15",
+            "activationDateTime": "2024-01-15 00:00:00",
             "width": 688,
             "height": 526,
             "notes": "GLOOBE Construction 2025 ポップアップ表示内容のURL"
