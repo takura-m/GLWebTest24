@@ -2,16 +2,16 @@
     "popup": [
         {
             "key": "popupArchitectInfo",
-            "url": "https://archi.fukuicompu.co.jp/feature/gla/iine.html",
-            "activationDateTime": "2025-01-15 00:00:00",
+            "url": "https://takura-m.github.io/GLWebTest24/いいねGL特設サイトポップアップ.png",
+            "activationDateTime": "2024-01-15 00:00:00",
             "width": 688,
             "height": 526,
             "notes": "GLOOBE Architect 2025 ポップアップ表示内容のURL"
         },
         {
             "key": "popupConstructionInfo",
-            "url": "https://archi.fukuicompu.co.jp/feature/gla/iine.html",
-            "activationDateTime": "2025-01-15 00:00:00",
+            "url": "https://takura-m.github.io/GLWebTest24/いいねGL特設サイトポップアップ.png",
+            "activationDateTime": "2024-01-15 00:00:00",
             "width": 688,
             "height": 526,
             "notes": "GLOOBE Construction 2025 ポップアップ表示内容のURL"
