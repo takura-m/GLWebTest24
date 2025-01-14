@@ -19,25 +19,25 @@
         {
             "key": "newContentsArchitectWebPath",
             "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2024/guide/new/GLA_2024new.html?20240710",
-            "lastUpdatedDate": "2024-01-14",
+            "lastUpdatedDateTime": "2024-01-14 09:00:00",
             "notes": "GLOOBE Architect 2025 新機能紹介PDF"
         },
         {
             "key": "revInfoArchitectWebPath",
             "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/Revinfo/bi_GLOOBE_2024_Architect.htm",
-            "lastUpdatedDate": "2024-01-14",
+            "lastUpdatedDateTime": "2024-01-14 09:00:00",
             "notes": "GLOOBE Architect 2024 プログラム修正情報"
         },
         {
             "key": "newContentsConstructionWebPath",
             "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2024/guide/new/GLC_2024new.html?20240821",
-            "lastUpdatedDate": "2024-01-14",
+            "lastUpdatedDateTime": "2024-01-14 09:00:00",
             "notes": "GLOOBE Construction 2025 新機能紹介PDF"
         },
         {
             "key": "revInfoConstructionWebPath",
             "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/Revinfo/bi_GLOOBE_2024_Construction.htm",
-            "lastUpdatedDate": "2024-01-14",
+            "lastUpdatedDateTime": "2024-01-14 09:00:00",
             "notes": "GLOOBE Construction 2024 プログラム修正情報"
         },
     ]
