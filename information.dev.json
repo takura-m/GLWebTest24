@@ -14,61 +14,65 @@
             "height": 528,
             "notes": "GLOOBE Construction 2024 ポップアップ表示内容のURL"
         }
+    ],
+    "popup2025": [
         {
-            "key": "architect2025",
+            "app": "architect",
             "url": "https://www.fukuicompu.co.jp/fccpopup/launch_gl_2505_webviewer.html",
             "width": 690,
             "height": 528,
             "notes": "GLOOBE Architect 2025 ポップアップ表示内容のURL"
         },
         {
-            "key": "construction2025",
+            "app": "construction",
             "url": "https://www.fukuicompu.co.jp/fccpopup/launch_gl_2505_webviewer.html",
             "width": 690,
             "height": 528,
             "notes": "GLOOBE Construction 2025 ポップアップ表示内容のURL"
         }
     ],
-    "newContents":[
+    "document2025": [
         {
-            "key": "architect2025",
+            "app": "architect",
+            "docType": "newContents",
             "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2024/guide/new/GLA_2024new.html?20240710",
             "lastUpdatedDateTime": "2025-01-14 09:00:00",
             "notes": "GLOOBE Architect 2025 新機能紹介PDF"
         },
         {
-            "key": "construction2025",
+            "app": "construction",
+            "docType": "newContents",
             "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2024/guide/new/GLC_2024new.html?20240821",
             "lastUpdatedDateTime": "2025-01-14 09:00:00",
             "notes": "GLOOBE Construction 2025 新機能紹介PDF"
         },
-    ],
-    "revInfo":[
         {
-            "key": "architect2025",
+            "key": "architect",
+            "docType": "revInfo",
             "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/Revinfo/bi_GLOOBE_2024_Architect.htm",
             "lastUpdatedDateTime": "2025-01-14 09:00:00",
             "notes": "GLOOBE Architect 2025 プログラム修正情報"
         },
         {
-            "key": "construction2025",
+            "key": "construction",
+            "docType": "revInfo",
             "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/Revinfo/bi_GLOOBE_2024_Construction.htm",
             "lastUpdatedDateTime": "2025-01-14 09:00:00",
             "notes": "GLOOBE Construction 2025 プログラム修正情報"
         },
-    ],
-    "version":[
         {
-            "key": "architect2025",
+            "key": "architect",
+            "docType": "buildNo",
             "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/GLA/info64.txt",
             "lastUpdatedDateTime": "2025-01-14 09:00:00",
-            "notes": "GLOOBE Architect 2025 プログラムビルド情報"
+            "notes": "GLOOBE Architect 2025 ビルド番号情報"
         },
         {
-            "key": "construction2025",
+            "key": "construction",
+            "docType": "buildNo",
             "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/GLC/info.txt",
             "lastUpdatedDateTime": "2025-01-14 09:00:00",
-            "notes": "GLOOBE Construction 2025 プログラムビルド修正情報"
+            "notes": "GLOOBE Construction 2025 ビルド番号情報"
         },
-    ]
+    ],
 }
