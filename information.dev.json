@@ -63,15 +63,13 @@
         {
             "app": "architect",
             "docType": "buildNo",
-            "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/GLA/info64.txt",
-            "lastUpdatedDateTime": "2025-01-14 09:00:00",
+            "url": "https://takura-m.github.io/GLWebTest24/sampleInfo0.txt",
             "notes": "GLOOBE Architect 2025 ビルド番号情報"
         },
         {
             "app": "construction",
             "docType": "buildNo",
-            "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/GLC/info.txt",
-            "lastUpdatedDateTime": "2025-01-14 09:00:00",
+            "url": "https://takura-m.github.io/GLWebTest24/sampleInfo1.txt",
             "notes": "GLOOBE Construction 2025 ビルド番号情報"
         },
     ],
