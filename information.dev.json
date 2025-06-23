@@ -2,16 +2,18 @@
     "popup": [
         {
             "key": "popupArchitectInfo",
-            "url": "https://www.fukuicompu.co.jp/fccpopup/launch_gl_2505_webviewer.html",
+            "url": "https://www.fukuicompu.co.jp/fccpopup/launch_gl_2506_iinegl_gst6.html",
             "width": 690,
             "height": 528,
+            "activationDateTime": "2025-05-14 09:00:00",
             "notes": "GLOOBE Architect 2024 ポップアップ表示内容のURL"
         },
         {
             "key": "popupConstructionInfo",
-            "url": "https://www.fukuicompu.co.jp/fccpopup/launch_gl_2505_webviewer.html",
+            "url": "https://www.fukuicompu.co.jp/fccpopup/launch_gl_2506_iinegl_gst6.html",
             "width": 690,
             "height": 528,
+            "activationDateTime": "2025-05-14 09:00:00",
             "notes": "GLOOBE Construction 2024 ポップアップ表示内容のURL"
         }
     ],
