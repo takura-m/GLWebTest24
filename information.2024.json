@@ -1,0 +1,18 @@
+{
+    "popup": [
+        {
+            "key": "popupArchitectInfo",
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_24.html",
+            "width": 690,
+            "height": 528,
+            "notes": "GLOOBE Architect 2024 ポップアップ表示内容のURL"
+        },
+        {
+            "key": "popupConstructionInfo",
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_24.html",
+            "width": 690,
+            "height": 528,
+            "notes": "GLOOBE Construction 2024 ポップアップ表示内容のURL"
+        }
+    ],
+}
