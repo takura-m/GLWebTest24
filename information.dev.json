@@ -1,34 +1,18 @@
 {
-    "popup2025": [
+    "popup": [
         {
-            "app": "architect",
-            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_25.html",
-            "width": 693,
-            "height": 539,
-            "notes": "GLOOBE Architect 2025 ポップアップ表示内容のURL"
+            "key": "popupArchitectInfo",
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_24.html",
+            "width": 690,
+            "height": 528,
+            "notes": "GLOOBE Architect 2024 ポップアップ表示内容のURL"
         },
         {
-            "app": "construction",
-            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_25.html",
-            "width": 693,
-            "height": 539,
-            "notes": "GLOOBE Construction 2025 ポップアップ表示内容のURL"
+            "key": "popupConstructionInfo",
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_24.html",
+            "width": 690,
+            "height": 528,
+            "notes": "GLOOBE Construction 2024 ポップアップ表示内容のURL"
         }
-    ],
-    "document2025": [
-        {
-            "app": "architect",
-            "docType": "newContents",
-            "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2025/guide/new/GLA_2025new.html",
-            "lastUpdatedDateTime": "2025-01-01 09:00:00",
-            "notes": "GLOOBE Architect 2025 新機能紹介PDF"
-        },
-        {
-            "app": "construction",
-            "docType": "newContents",
-            "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2025/guide/new/GLC_2025new.html",
-            "lastUpdatedDateTime": "2025-01-01 09:00:00",
-            "notes": "GLOOBE Construction 2025 新機能紹介PDF"
-        },
     ],
 }
