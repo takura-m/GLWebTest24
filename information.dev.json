@@ -3,15 +3,15 @@
         {
             "app": "architect",
             "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_25.html",
-            "width": 695,
-            "height": 533,
+            "width": 696,
+            "height": 534,
             "notes": "GLOOBE Architect 2025 ポップアップ表示内容のURL"
         },
         {
             "app": "construction",
             "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_25.html",
-            "width": 695,
-            "height": 533,
+            "width": 696,
+            "height": 534,
             "notes": "GLOOBE Construction 2025 ポップアップ表示内容のURL"
         }
     ],
