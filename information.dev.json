@@ -2,16 +2,16 @@
     "popup2025": [
         {
             "app": "architect",
-            "url": "https://takura-m.github.io/GLWebTest24/Contents/GLOOBE2025のご案内.html",
-            "width": 690,
-            "height": 528,
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_25.html",
+            "width": 693,
+            "height": 539,
             "notes": "GLOOBE Architect 2025 ポップアップ表示内容のURL"
         },
         {
             "app": "construction",
-            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_24.html",
-            "width": 690,
-            "height": 528,
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_25.html",
+            "width": 693,
+            "height": 539,
             "notes": "GLOOBE Construction 2025 ポップアップ表示内容のURL"
         }
     ],
