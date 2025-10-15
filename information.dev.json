@@ -2,16 +2,18 @@
     "popup2025": [
         {
             "app": "architect",
-            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2510_survey_25.html",
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2510a_survey_25.html",
             "width": 690,
             "height": 528,
+            "activationDateTime": "2025-10-15 10:00:00",
             "notes": "GLOOBE Architect 2025 ポップアップ表示内容のURL"
         },
         {
             "app": "construction",
-            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2510_survey_25.html",
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2510a_survey_25.html",
             "width": 690,
             "height": 528,
+            "activationDateTime": "2025-10-15 10:00:00",
             "notes": "GLOOBE Construction 2025 ポップアップ表示内容のURL"
         }
     ],
@@ -29,6 +31,32 @@
             "url": "https://www.fukuicompu.co.jp/mnl/GLOOBE/2025/guide/new/GLC_2025new.html",
             "lastUpdatedDateTime": "2025-01-01 09:00:00",
             "notes": "GLOOBE Construction 2025 新機能紹介PDF"
+        },
+        {
+            "app": "architect",
+            "docType": "revInfo",
+            "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/Revinfo/bi_GLOOBE_2025_Architect.htm",
+            "lastUpdatedDateTime": "2025-10-15 10:00:00",
+            "notes": "GLOOBE Architect 2025 プログラム修正情報"
+        },
+        {
+            "app": "construction",
+            "docType": "revInfo",
+            "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/Revinfo/bi_GLOOBE_2025_Construction.htm",
+            "lastUpdatedDateTime": "2025-10-15 10:00:00",
+            "notes": "GLOOBE Construction 2025 プログラム修正情報"
+        },
+        {
+            "app": "architect",
+            "docType": "buildNo",
+            "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/GLA/info.txt",
+            "notes": "GLOOBE Architect 2025 ビルド番号情報"
+        },
+        {
+            "app": "construction",
+            "docType": "buildNo",
+            "url": "https://cdn.fukuicompu.co.jp/trenddlroot/contents/GLOOBE/info/2025/GLC/info.txt",
+            "notes": "GLOOBE Construction 2025 ビルド番号情報"
         },
     ],
 }
