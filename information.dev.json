@@ -2,16 +2,18 @@
     "popup2025": [
         {
             "app": "architect",
-            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2511_survey_team.html",
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_25.html",
             "width": 690,
             "height": 528,
+            "activationDateTime": "2025-12-04 0:00:00",
             "notes": "GLOOBE Architect 2025 ポップアップ表示内容のURL"
         },
         {
             "app": "construction",
-            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2511_survey_team.html",
+            "url": "https://archi.fukuicompu.co.jp/popup/launch_gl_2507_25release_25.html",
             "width": 690,
             "height": 528,
+            "activationDateTime": "2025-12-05 0:00:00",
             "notes": "GLOOBE Construction 2025 ポップアップ表示内容のURL"
         }
     ],
